@@ -1,0 +1,15 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd0obcXMHM3MsBX4T0uV1a2As28tzKtVxUIJLAtPsAkA&s");
+}
+
+.photo{
+    text-align: center;
+    font-size: 50px;
+}
+.res{
+    text-align: center;
+}
